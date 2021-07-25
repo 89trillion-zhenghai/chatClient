@@ -31,8 +31,7 @@
 
 ## 界面设计
 
-未命名文件 (8).jpg![未命名文件 (8)](https://user-images.githubusercontent.com/86946999/126900421-8c7c165e-e528-451a-92a5-1f16a70f44f6.jpg)
-
+未命名文件 (8).jpg![未命名文件 (8)]
 
 连接
 
@@ -93,5 +92,6 @@ go build
 
 ## 流程图
 
-![未命名文件 (8)](/Users/yangzhenghai/Downloads/未命名文件 (8).jpg)
+(https://user-images.githubusercontent.com/86946999/126900421-8c7c165e-e528-451a-92a5-1f16a70f44f6.jpg)
+
 
