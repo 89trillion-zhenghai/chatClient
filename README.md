@@ -31,7 +31,8 @@
 
 ## 界面设计
 
-![image-20210723174611134](/Users/yangzhenghai/Library/Application Support/typora-user-images/image-20210723174611134.png)
+未命名文件 (8).jpg![未命名文件 (8)](https://user-images.githubusercontent.com/86946999/126900421-8c7c165e-e528-451a-92a5-1f16a70f44f6.jpg)
+
 
 连接
 
