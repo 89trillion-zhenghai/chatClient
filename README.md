@@ -30,18 +30,15 @@
 | userList   | []string | 当前在线用户列表 |
 
 ## 界面设计
-
-未命名文件 (8).jpg![未命名文件 (8)]
+<img width="792" alt="1" src="https://user-images.githubusercontent.com/86946999/126900561-e999b199-0aef-4900-b02a-29c160f7e77e.png">
 
 连接
 
-![image-20210723174651889](/Users/yangzhenghai/Library/Application Support/typora-user-images/image-20210723174651889.png)
-
-
+<img width="800" alt="2" src="https://user-images.githubusercontent.com/86946999/126900567-b25bf2d5-af5b-41d4-a680-e7b6f660dd8a.png">
 
 断开连接
 
-![image-20210723174733889](/Users/yangzhenghai/Library/Application Support/typora-user-images/image-20210723174733889.png)
+<img width="800" alt="3" src="https://user-images.githubusercontent.com/86946999/126900573-eae90826-6c38-45ff-b6bf-5afe8c5fbcce.png">
 
 ## 第三方库
 
@@ -91,7 +88,6 @@ go build
 将代码进一步分层
 
 ## 流程图
-
-(https://user-images.githubusercontent.com/86946999/126900421-8c7c165e-e528-451a-92a5-1f16a70f44f6.jpg)
+![未命名文件 (8)](https://user-images.githubusercontent.com/86946999/126900481-4e869d9a-89e5-4adf-920f-a0fc1a32a3d3.jpg)
 
 
